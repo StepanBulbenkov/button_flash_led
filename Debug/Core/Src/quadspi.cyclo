@@ -1,0 +1,11 @@
+../Core/Src/quadspi.c:30:6:MX_QUADSPI_Init	2
+../Core/Src/quadspi.c:59:6:HAL_QSPI_MspInit	2
+../Core/Src/quadspi.c:116:6:HAL_QSPI_MspDeInit	2
+../Core/Src/quadspi.c:149:6:QSPI_WRITE_VCR	3
+../Core/Src/quadspi.c:161:6:QSPI_WRITE	3
+../Core/Src/quadspi.c:173:6:QSPI_READ	3
+../Core/Src/quadspi.c:185:6:QSPI_QUAD_EN	2
+../Core/Src/quadspi.c:194:6:QSPI_QUAD_DIS	2
+../Core/Src/quadspi.c:203:6:QSPI_WRITE_EN	2
+../Core/Src/quadspi.c:212:6:QSPI_WRITE_DIS	2
+../Core/Src/quadspi.c:221:6:QSPI_ERASE_SUB4K	2
